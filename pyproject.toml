@@ -116,7 +116,7 @@ classifiers = [
 #
 # For an analysis of this field vs pip's requirements files see:
 # https://packaging.python.org/discussions/install-requires-vs-requirements/
-dependencies = ["pyyaml", "nox", "pytest", "flake8","black"]
+dependencies = ["pyyaml"]
 
 # List additional groups of dependencies here (e.g. development
 # dependencies). Users will be able to install these using the "extras"
@@ -129,9 +129,10 @@ dependencies = ["pyyaml", "nox", "pytest", "flake8","black"]
 # https://packaging.python.org/en/latest/specifications/dependency-specifiers/#extras
 [project.optional-dependencies]
 dev = [
-"pytest",  # For testing
-"black",   # For code formatting
-"flake8",  # For linting
+    "pytest",  # For testing
+    "black",   # For code formatting
+    "flake8",  # For linting
+    "nox"
 ]
 test  = [
     "pytest",  # For testing
