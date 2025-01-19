@@ -20,7 +20,11 @@ These links provided to show appreciation to the others who provided useful tool
   * [Home Page](https://virtualenv.pypa.io/en/latest/)
   * [GitHub](https://github.com/pypa/virtualenv)
   * [Python Tutorial: virtualenv and why you should use virtual environments (YouTube)](https://www.youtube.com/watch?v=N5vscPTWKOk)
-
+* Linting: Flake8, pycodestyle, pyflakes/pylint, mccabe
+  * [Flake8 Error Codes](https://flake8.pycqa.org/en/latest/user/error-codes.html)
+  * [pycodestyle Error Codes](https://pycodestyle.pycqa.org/en/latest/intro.html#error-codes)
+  * [pyflakes / pylint Error Codes](https://pylint.readthedocs.io/en/stable/user_guide/messages/messages_overview.html#)
+  * [mccade documentation](https://pypi.org/project/mccabe/)
 # Useful Documentation
 * [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 * [Python Docs: 5. The import system](https://docs.python.org/3/reference/import.html)
