@@ -1,3 +1,0 @@
-pyyaml
-console-menu
-ansicolors
