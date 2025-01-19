@@ -1,5 +1,5 @@
 import unittest
-from configurationenforcer.configurationenforcer import ConfigurationEnforcer
+from configuration_enforcer.configuration_enforcer import ConfigurationEnforcer
 
 class TestConfigurationEnforcer(unittest.TestCase):
     def test_something(self):
